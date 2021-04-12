@@ -108,7 +108,7 @@
 
 /* About Container */
 #name {
-    font-size: 42px;
+    font-size: 45px;
     margin-bottom: 15px;
 }
 
@@ -119,7 +119,7 @@
 }
 
 .description {
-    max-width: 80px;
+    /*max-width: 80px;*/
     margin-bottom: 10px;
 }
 
