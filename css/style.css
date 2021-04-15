@@ -8,10 +8,10 @@
 
 /* Variaveis */
 :root {
-    --main-color: #55b15566;
+    --main-color: #49a05f50;
     --main-text-color: #FFF;
     --border-color: #999;
-    --bio-bg-color: #1e2a3a;
+    --bio-bg-color: #253447;
     --bio-border-color: #293544;
     --about-bg-color: #111821;
 }
@@ -169,9 +169,9 @@
 }
 
 .skills-box {
-    flex: 1 1 35%;
-    max-width: 35%;
-    margin-bottom: 35%;
+    flex: 1 1 33%;
+    max-width: 33%;
+    margin-bottom: 35px;
 }
 
 .skills-title {
